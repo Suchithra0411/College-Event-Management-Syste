@@ -1,1 +1,1 @@
-# College-Event-Management-Syste
+# College-Event-Management-System
